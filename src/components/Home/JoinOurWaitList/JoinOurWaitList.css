@@ -1,0 +1,62 @@
+.joinWaitList {
+    background: url("../../../resources/home/waitlist-bg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.waitList-grid-bg {
+    max-width: 1600px;
+    background: url("../../../resources/home/grid-vector.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+.joinList-text {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    color: #FFFFFF;
+    margin: 0;
+    padding: 0;
+    margin-top: 10px;
+}
+
+.joinList-input input {
+    background: none;
+    border: 1px solid #0C8AE6;
+    border-radius: 8px;
+    padding: 16px 24px;
+    width: 100%;
+    margin: 0;
+}
+
+.joinList-input input::placeholder {
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+}
+
+.joinList-input input:focus {
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+    border: 1px solid #0C8AE6;
+}
+
+.joinlist-btn {
+    background: #0C8AE6;
+    border-radius: 8px;
+    padding: 16px 24px;
+    border: 0;
+    font-weight: 500;
+    font-size: 16px;
+    text-align: center;
+    color: #FFFFFF;
+    width: 100%;
+    margin: 0;
+    margin-top: 20px;
+}

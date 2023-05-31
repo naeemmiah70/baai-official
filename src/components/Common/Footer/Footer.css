@@ -1,0 +1,57 @@
+.textcolor {
+
+    color: #CACACE !important;
+}
+
+
+.imp-lonk {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.imp-lonk li {
+    margin: 21px 24px 0 0;
+}
+
+.imp-lonk li span {
+    color: #CACACE !important;
+}
+
+.solical-media li a {
+    display: inline-flex;
+    margin: 0 28px 0 0;
+}
+
+.solical-media {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.solical-media li img {
+    width: 24px;
+    height: 24px;
+}
+
+.im-lonk {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.im-lonk li {
+    margin: 8px 22px 12px 0;
+}
+
+.im-lonk li span {
+    color: #CACACE !important;
+    cursor: auto;
+}
+
+.solical-media {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
